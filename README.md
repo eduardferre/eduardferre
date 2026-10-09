@@ -10,6 +10,7 @@ LLMs · GraphRAG · Knowledge Graphs · AI on Mainframe code (COBOL/JCL)
 [![Hub](https://img.shields.io/badge/Hub-eduardferre.dev-22D3EE?style=flat&logoColor=white)](https://eduardferre.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardferre-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardferre)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--3993--8186-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-3993-8186)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Eduard_Ferré-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=QzWcWCQAAAAJ)
 
 </div>
 
